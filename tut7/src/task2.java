@@ -11,7 +11,7 @@ public class task2 {
                 "Press D to display the best Keeper\n ");
         user = input.nextLine() ;
 
-        if (user == "A"){
+        if (user.equals("A")){
             System.out.println("sheran");
 
         }
